@@ -4,6 +4,8 @@ Chirpy
 
 Chirpy is a social language learning mobile application that connects users who wish to learn and teach each other foreign languages. The application was built using Ruby on Rails and AngularJS. Materialize CSS was used for the application's styling.
 
+[![Code Climate](https://codeclimate.com/github/jjnewman/languageapp-chirpy/badges/gpa.svg)](https://codeclimate.com/github/jjnewman/languageapp-chirpy)
+
 
 Technologies used
 ----
@@ -31,6 +33,9 @@ Features
 - Ability to display only online users
 - Authentification during the sign-up process
 - CSS animation used for background "moving clouds" 
+
+[postscript - despite the perfect CodeClimate score the profiles controller is still rather "fat" and will therefore be subject to further refactoring in the near future (JN, 23/4/15)]
+
 
 
 How to clone this repo
